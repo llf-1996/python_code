@@ -163,7 +163,7 @@ cython_debug/
 #.idea/
 
 # log
-deploy_conf/runtime/logs/*/*
+**/runtime/logs/*/*
 *.log
 
 # other
