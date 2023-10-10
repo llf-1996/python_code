@@ -1,4 +1,10 @@
+"""
+判断链表是否有环
+"""
+
+
 class LNode:
+    """链表节点类"""
     def __init__(self, elem):
         self.elem = elem
         self.pnext = None
